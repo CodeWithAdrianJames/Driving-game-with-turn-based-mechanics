@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Tambutso.iml" filepath="$PROJECT_DIR$/Tambutso.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/FINAL PROJECT(TAMBUTSO LEGENDS).iml" filepath="$PROJECT_DIR$/.idea/FINAL PROJECT(TAMBUTSO LEGENDS).iml" />
+>>>>>>> 28dceb5 (Initial commit for map revisions)
     </modules>
   </component>
 </project>
